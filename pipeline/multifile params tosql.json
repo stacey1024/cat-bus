@@ -1,6 +1,12 @@
 {
 	"name": "multifile params tosql",
 	"properties": {
+		"parameters": {
+			"param_Global_FilePath": {
+				"type": "string",
+				"defaultValue": "c:\\temp"
+			}
+		},
 		"annotations": []
 	}
 }
