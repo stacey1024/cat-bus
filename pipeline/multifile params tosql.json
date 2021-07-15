@@ -7,6 +7,11 @@
 				"defaultValue": "c:\\temp"
 			}
 		},
+		"variables": {
+			"var_ResourceGroupName": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
