@@ -1,0 +1,9 @@
+{
+	"name": "staceypoc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b91305c9-b2cc-4601-95bd-8426d02b483d",
+		"tenantId": "7b6f35d2-1f98-4e5e-82eb-e78f6ea5a1de"
+	}
+}
